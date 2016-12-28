@@ -5,3 +5,7 @@ body {
 .brand-logo {
   font-family: cursive;
 }
+
+#intro {
+  margin-top: 20px;
+}
