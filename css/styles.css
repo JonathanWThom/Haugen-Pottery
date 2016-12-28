@@ -9,3 +9,21 @@ body {
 #intro {
   margin-top: 20px;
 }
+
+@media screen and (max-width: 460px) {
+  p {
+    font-size: 20px;
+  }
+
+  #card-title {
+    font-size: 32px;
+  }
+
+  a {
+    font-size: 20px;
+  }
+
+  .nav-wrapper {
+    font-size: 40px;
+  }
+}
