@@ -15,8 +15,8 @@ body {
     font-size: 20px;
   }
 
-  #card-title {
-    font-size: 32px;
+  .card-content .card-title {
+    font-size: 36px;
   }
 
   a {
